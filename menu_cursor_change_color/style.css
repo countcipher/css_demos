@@ -40,7 +40,7 @@ ul li a{
     transform: translate(-50%, -50%);
     pointer-events: none;
     color: black;
-    mix-blend-mode: color;
+    mix-blend-mode: hard-light;
 }
 ul li:hover ~ .cursor{
     transform: scale(6);
